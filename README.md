@@ -25,19 +25,21 @@
 
 ![3_1](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/c6ac9331-3468-425f-a6c6-f83cc3768b4b)
 
+**Step 2: Checking if directory & file mentioned in csv are present or not**
 
-# Output
-
+2.1 With no ERROR 
 
 ![3_2](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/5c5256db-2461-45ae-a915-492f7dffd427)
 
-
 ![4_1](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/e67ad29f-d560-493d-8dba-006bae9293d4)
+
+2.2 When one of the input library file is not present 
 
 ![4_2](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/8be24680-2f6c-498c-9fd1-0a6a999f0dda)
 
 ![4_3](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/930d5e80-7c4f-43ea-a91d-a603c470dee0)
 
+2.3 When output directory is not present it will be created 
 
 ![4_4](https://github.com/Bharti-Navlani/VSD-TCL-Programming_From-Novice2Expert/assets/84861735/97191b8e-a88e-4512-bdd6-6e7a0a515aae)
 
